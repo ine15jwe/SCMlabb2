@@ -110,5 +110,5 @@ public class MyNode {
     return cnt;
   }
 //Hej
-} 
+} //hej igen
 // Johanna ändrar
