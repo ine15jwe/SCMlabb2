@@ -15,7 +15,7 @@ public class MyTree {
    * Class constructor.
    */
   public MyTree() {
-  }
+  }//Hej
 
   /**
    * Return a reference to the root in this tree.
