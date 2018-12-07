@@ -15,7 +15,7 @@ import tree.MyNode;
  */
 public class MyTree {
   private MyNode root;
-
+//Hej
   /**
    * Class constructor.
    */
@@ -82,5 +82,5 @@ public class MyTree {
     }
     return root.calcSize();
   }
-}
+}//Hej
 
