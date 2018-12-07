@@ -77,5 +77,5 @@ public class MyTree {
     }
     return root.calcSize();
   }
-}
+}//Hej
 
