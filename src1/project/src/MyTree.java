@@ -3,6 +3,7 @@
 // En till ändring
 //Hejhej 
 //GAHGAH
+//FInt
 package tree;
 
 import tree.MyNode;
