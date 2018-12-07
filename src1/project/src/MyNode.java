@@ -1,5 +1,5 @@
 package tree;
-//Hej
+//Hej 
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
@@ -110,4 +110,4 @@ public class MyNode {
     return cnt;
   }
 } 
-// Johanna ändrar
+// Johanna ï¿½ndrar
