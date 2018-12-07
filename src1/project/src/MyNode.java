@@ -1,10 +1,5 @@
-﻿package tree;
-//Hej 
-//MOA ÄR BÄST
-//(Hej
-//JUL
-//CILLA 
-//hejehej
+package tree;
+
 /**
  * This is a node in a binary search tree. The node holds an integer value.
  *
@@ -15,7 +10,7 @@ public class MyNode {
   private MyNode father;
   private MyNode left;
   private MyNode right;
-  private int value; //Hej
+  private int value;
 
   /**
    * Class constructor initializing this node's value.
@@ -96,7 +91,7 @@ public class MyNode {
    */
   public void setLeftChild(MyNode left) {
     this.left = left;
-  }
+  }//hej
 
   /**
    * Calculate the size this subtree. Recursively calculate the size of the
@@ -115,5 +110,5 @@ public class MyNode {
     return cnt;
   }
 //Hej
-} 
 } //hej igen
+// Johanna �ndrar
